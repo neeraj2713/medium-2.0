@@ -8,6 +8,7 @@
     "@neerxj2713/medium-common": "^1.0.0",
     "@prisma/client": "^5.17.0",
     "@prisma/extension-accelerate": "^1.1.0",
+    "cors": "^2.8.5",
     "hono": "^4.4.13",
     "prisma": "^5.17.0",
     "zod": "^3.23.8"
